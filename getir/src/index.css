@@ -10,3 +10,7 @@
         @apply antialiased
     }
 }
+
+.flag-selected button {
+    @apply border-2 border-rose-500  
+}

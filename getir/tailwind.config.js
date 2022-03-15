@@ -4,9 +4,12 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundColor: theme =>({
-        brandColor: "#5d3ebc"
-      })
+      colors: {
+        "brand-color": "#4c3398",
+        "primary-brand-color": "#5d3ebc",
+        "secondary-brand-color": "#7849f7",
+        "brand-yellow": "#ffd300"
+      }
     },
   },
   plugins: [],

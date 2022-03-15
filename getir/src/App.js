@@ -15,6 +15,8 @@ function App() {  return (
       <Favorites />
       <MobileApp />
       <Cards />
+      
+     
     </div>
   );
 }
