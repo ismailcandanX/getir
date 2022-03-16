@@ -1,11 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import ReactFlagsSelect from 'react-flags-select';
 
 export default function HeroSection() {
-  const [selected, setSelected] = useState('');
 
   const settings = {
     dots: false,
@@ -13,7 +11,10 @@ export default function HeroSection() {
     arrows: false,
     speed: 500,
     slidesToShow: 1,
-    slidesToScroll: 1
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 3500,
+    cssEase: "linear"
   };
 
   return (
@@ -45,11 +46,11 @@ export default function HeroSection() {
           <div>
             <label className="flex-1 relative block ">
               <input required className="w-full px-4 h-14 border-2 border-gray-200 transition-colors hover:border-primary-brand-color focus:border-primary-brand-color outline-none rounded peer pt-2 text-sm" />
-              <span className="absolute top-0 left-0 h-full px-4 flex items-center text-sm text-gray-500 peer-focus:h-7 peer-focus:text-primary-brand-color peer-focus:text-xs peer-valid:h-7 peer-valid:text-primary-brand-color peer-valid:text-xs">Telefon Numarası</span>
+              <span className="absolute top-0 left-0 h-full px-4 flex items-center text-gray-500 peer-focus:h-7 peer-focus:text-primary-brand-color peer-focus:text-xs peer-valid:h-7 peer-valid:text-primary-brand-color peer-valid:text-xs  text-sm">Telefon Numarası</span>
             </label>
           </div>
           <div className="pt-4">
-            <button className="bg-brand-yellow text-brand-color transition-colors hover:bg-brand-color hover:text-brand-yellow w-full h-12 rounded-md">
+            <button className="bg-brand-yellow text-brand-color transition-colors hover:bg-brand-color hover:text-brand-yellow w-full h-12 rounded-md text-sm font-semibold">
               Telefon numarası ile devam et
             </button>
           </div>
