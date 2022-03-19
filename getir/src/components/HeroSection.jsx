@@ -36,7 +36,7 @@ export default function HeroSection() {
           <img className="w-full h-[500px] object-cover " src="https://getir.com/_next/static/images/getir-mainpage-1-757eca6a46304def60cabce74d3f20a2.jpg" />
         </div>
       </Slider>
-      <div className="container flex justify-between items-center absolute top-0 left-1/2 -translate-x-1/2 h-full z-20">
+      <div className="container flex justify-between items-center absolute top-0 left-1/2 -translate-x-1/2 h-5/6 z-20">
         <div className="mx-5  -mt-14 relative left-2 -top-2" >
           <img className="w-44" src="https://getir.com/_next/static/images/bimutluluk-b3a7fcb14fc9a9c09b60d7dc9b1b8fd6.svg" />
           <h1 className=" text-white font-semibold text-4xl mt-8">Dakikalar içinde <br /> kapınızda</h1>
