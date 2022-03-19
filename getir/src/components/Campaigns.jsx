@@ -24,8 +24,8 @@ export default function Campaigns() {
     cssEase: "linear"
   };
   return (
-    <div className='container  mx-auto py-6'>
-      <TitleCall>Kampanyalar</TitleCall>
+    <div className='container  mx-auto py-6 mb-2 '>
+      <TitleCall >Kampanyalar</TitleCall>
       <Slider {...settings} className="relative ">
         {banners && banners.map((bannersCall, index) => <CampaignsCall key={index} bannersCall={bannersCall} />)}
       </Slider>

@@ -1,0 +1,115 @@
+[
+    {
+        "id": "1",
+        "image": "https://cdn.getir.com/product/5a7b20fd8e19da0004bb27f8_tr_1615375864268.jpeg",
+        "price": "₺3,95",
+        "title": "Kuzeyden",
+        "size": "1,5L"
+    },
+    {
+        "id": "2",
+        "image": "https://cdn.getir.com/product/60018c5bca2126d84459c47f_tr_1610788125046.jpeg",
+        "price": "₺7,75",
+        "title": "Kızılay Erzincan",
+        "size": "6 x 200 ml"
+    },
+    {
+        "id": "3",
+        "image": "https://cdn.getir.com/product/574b2219dee8a90300f18d24_tr_1638269157710.jpeg",
+        "price": "₺4,40",
+        "title": "Ülker Napoliten",
+        "size": "33g"
+    },
+    {
+        "id": "4",
+        "image": "https://cdn.getir.com/product/5bc97aabb137fb001d751ac7_tr_1609123518121.jpeg",
+        "price": "₺8,95",
+        "title": "Lay's Mevsim Yeşellikli",
+        "size": "96g"
+    },
+    {
+        "id": "5",
+        "image": "https://cdn.getir.com/product/5ccaf4ff1a1763000175a869_tr_1580904995656.jpeg",
+        "price": "₺9,85",
+        "title": "Kavrulmuş Siyah Ay Çekirdeği",
+        "size": "180g"
+    },
+    {
+        "id": "6",
+        "image": "https://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg",
+        "price": "₺11,50",
+        "title": "Magnum Badem",
+        "size": "100ml"
+    },
+    {
+        "id": "7",
+        "image": "https://cdn.getir.com/product/5c879b921f5acb000125e903_tr_1612851603430.jpeg",
+        "price": "₺10,95",
+        "title": "Uno Tost Ekmeği",
+        "size": "350g"
+    },
+    {
+        "id": "8",
+        "image": "https://cdn.getir.com/product/5ced482d4a8a2a000137da6d_tr_1623652387464.jpeg",
+        "price": "₺12,95",
+        "title": "İçim %3 Yağlı Süt",
+        "size": "1 L"
+    },
+    {
+        "id": "9",
+        "image": "https://cdn.getir.com/product/5ce65823a72a950001cc88c0_tr_1609902381949.jpeg",
+        "price": "₺0,95",
+        "title": "Bahçıvan Süzme Peynir",
+        "size": "500 g"
+    },
+    {
+        "id": "10",
+        "image": "https://cdn.getir.com/product/6012ba4c08793829b89aa6ed_tr_1638948798067.jpeg",
+        "price": "₺39,90",
+        "title": "Hertane Kuru Sele Zeytin",
+        "size": "285g"
+    },
+    {
+        "id": "11",
+        "image": "https://cdn.getir.com/product/559fb12df462100c00461494.jpeg",
+        "price": "₺7,50",
+        "title": "Nuh'un Ankara Spaghetti",
+        "size": "500 g"
+    },
+    {
+        "id": "12",
+        "image": "https://cdn.getir.com/product/5c3f4bdcf9ba5f0001e7b0d9_tr_1609902603858.jpeg",
+        "price": "₺39,90",
+        "title": "Colgate Optik White",
+        "size": "75 ml"
+    },
+    {
+        "id": "13",
+        "image": "https://cdn.getir.com/product/5e37d21d8aae421521876048_c5e05715-28c2-47cb-8b16-ffb935ede682.jpeg",
+        "price": "₺37,50",
+        "title": "Elidor Güçlü ve Parlak Şampuan",
+        "size": "650 ml"
+    },
+    {
+        "id": "14",
+        "image": "https://cdn.getir.com/product/60a4b1baa415b3197743e314_tr_1621694073698.jpeg",
+        "price": "₺55,90",
+        "title": "Solo Tuvalet Kağıdı",
+        "size": "16'lı"
+    },
+    {
+        "id": "15",
+        "image": "https://cdn.getir.com/product/58a1b3f4f24e4d00048d7f62_771879ea-59b7-4305-8c66-0b850ba6c0a7.jpeg",
+        "price": "₺39,99",
+        "title": "Yumoş Extra Orkide Yasemin",
+        "size": "1440 ml"
+    },
+    {
+        "id": "16",
+        "image": "https://cdn.getir.com/product/5d7f8dd10ed2c200010d5152_b6135284-0ab2-4b07-a7ef-fa4f754902e1.jpeg",
+        "price": "₺14,75",
+        "title": "Domestos Dağ Esintisi",
+        "size": "750 ml"
+    }
+    
+]
