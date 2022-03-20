@@ -3,11 +3,11 @@ import React from 'react'
 export default function MobileApp() {
   return (
     <div className='container mx-auto grid gap-y-6 mb-6'>
-      <div className='bg-primary-brand-color bg-mobile-app text-white flex justify-between items-center rounded-lg mt-8'>
+      <div className='bg-primary-brand-color md:bg-mobile-app text-white flex justify-between items-center md:rounded-lg mt-8'>
         <div className='flex flex-col p-10'>
           <h3 className='text-2xl font-bold'>Getir'i indirin!</h3>
           <p className='font-semibold leading-6 mt-3'>İstediğiniz ürünleri dakikalar içinde kapınıza <br />getirelim.</p>
-          <div className='flex gap-x-2 pt-8'>
+          <div className='flex  gap-2 pt-8 flex-col  md:flex-row'>
             <a href='#'>
               <img src='https://getir.com/_next/static/images/appstore-tr-141ed939fceebdcee96af608fa293b31.svg' />
             </a>
@@ -19,7 +19,7 @@ export default function MobileApp() {
             </a>
           </div>
         </div>
-        <picture className='pt-6'>
+        <picture className='pt-6 hidden md:block md:self-end'>
             <img src='https://getir.com/_next/static/images/phoneLanding-88c033545710c4808054072689e187d7.png' />
           </picture>
       </div>

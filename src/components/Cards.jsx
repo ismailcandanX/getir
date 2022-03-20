@@ -14,7 +14,7 @@ export default function Cards() {
 
 
     <div className='container mx-auto  '>
-      <div className='grid grid-cols-3 gap-x-4 items-center text-center pt-14 pb-10'>
+      <div className='grid md:grid-cols-3 gap-4 items-center text-center pt-14 pb-10'>
         {card.length && card.map( (cardData, index)=> <CardCall key={index} cardData={cardData} /> )}
       </div>
     </div>

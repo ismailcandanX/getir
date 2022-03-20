@@ -14,7 +14,7 @@ export default function Favorites() {
     <div className='container mx-auto '>
       <div>
         <TitleCall ><div className='mb-2'>Favoriler</div></TitleCall>
-        <div className='grid grid-cols-8 bg-white '>
+        <div className='grid grid-cols-3 md:grid-cols-5 xl:grid-cols-8 bg-white '>
           {favorite && favorite.map((favoritesApi, index) => <FavoritesCall key={index} favoritesApi={favoritesApi} />)}</div>
       </div>
     </div>

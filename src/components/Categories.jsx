@@ -15,7 +15,7 @@ export default function Categories() {
     <div className=' bg-white drop-shadow-sm'>
       <div className=' container mx-auto py-6 '>
         <TitleCall>Kategoriler</TitleCall>
-        <div className='grid grid-cols-10 '>
+        <div className='grid grid-cols-4 md:grid-cols-5 lg:grid-cols-10 '>
           {categories && categories.map((categoryCall, index)=> <CategoryCall key={index} categoryCall={categoryCall} />)}
         </div>
 
