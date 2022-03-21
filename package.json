@@ -1,6 +1,7 @@
 {
   "name": "getir",
   "version": "0.1.0",
+  "homepage": "https://ismailcandanX.github.io/getir",
   "private": true,
   "dependencies": {
     "@react-hook/window-size": "^3.0.7",
@@ -38,6 +39,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.2",
+    "gh-pages": "^3.2.3",
     "postcss": "^8.4.8",
     "tailwindcss": "^3.0.23"
   }
